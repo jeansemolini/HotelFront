@@ -1,0 +1,23 @@
+[
+    {
+        "pessoa": {
+            "nome": "Davi Semolini",
+            "documento": "123456789",
+            "telefone":"99999-9999"
+        },
+        "dataEntrada": "2019-07-14T08:00:00",
+        "dataSaida": "2019-07-21T16:31:00",
+        "adicionalVeiculo": false
+    },
+    {
+        "pessoa": {
+            "nome": "Mariah Semolini",
+            "documento": "987654321",
+            "telefone":"88888-8888"
+        },
+        "dataEntrada": "2018-03-14T08:00:00",
+        "dataSaida": "2018-03-17T10:17:00",
+        "adicionalVeiculo": true
+    }
+    
+]

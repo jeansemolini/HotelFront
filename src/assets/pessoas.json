@@ -1,0 +1,12 @@
+[
+    {       
+        "nome": "Davi Semolini",
+        "documento": "123456789",
+        "telefone":"99999-9999"        
+    },
+    {        
+        "nome": "Mariah Semolini",
+        "documento": "987654321",
+        "telefone":"88888-8888"        
+    }    
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "pessoa": {
+            "nome": "Marine Oliveira",
+            "documento": "123789456",
+            "telefone":"77777-7777"
+        },
+        "dataEntrada": "2018-03-14T08:00:00",
+        "dataSaida": "",
+        "adicionalVeiculo": true
+    },
+    {
+        "pessoa": {
+            "nome": "Maria Silva",
+            "documento": "951753258",
+            "telefone":"55555-5555"
+        },
+        "dataEntrada": "2018-03-14T08:00:00",
+        "dataSaida": "",
+        "adicionalVeiculo": false
+    }
+    
+]
